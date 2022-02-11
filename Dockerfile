@@ -1,5 +1,5 @@
 FROM python:3.9-alpine
-MAINTAINER Ana Chacon
+LABEL Ana Chacon
 
 ENV PYTHONUNBUFFERED 1
 
